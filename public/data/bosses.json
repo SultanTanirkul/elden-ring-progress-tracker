@@ -1,0 +1,246 @@
+[
+    {
+        "name": "Black Blade Kindred",
+        "coords": {
+            "lat": -97.0625,
+            "lng": 108.21875
+        },
+        "region": "Caelid",
+        "uuid": "62e1b94c-7c2a-44b2-8a8a-f1e5d32919f7"
+    },
+    {
+        "name": "Flying Dragon Greyll",
+        "coords": {
+            "lat": -103.890625,
+            "lng": 110.984375
+        },
+        "region": "Caelid",
+        "uuid": "7f372452-a6ee-4b59-8913-fbba2ec55cd2"
+    },
+    {
+        "name": "Night's Cavalry",
+        "coords": {
+            "lat": -103.671875,
+            "lng": 113.109375
+        },
+        "region": "Caelid",
+        "uuid": "984eb2eb-b144-477e-96fc-58e15da28322"
+    },
+    {
+        "name": "Putrid Tree Spirit",
+        "coords": {
+            "lat": -108.203125,
+            "lng": 113.390625
+        },
+        "region": "Caelid",
+        "uuid": "48ab26ba-5c94-470e-a8d5-0b7616dc708d"
+    },
+    {
+        "name": "Beastman Of Farum Azula",
+        "coords": {
+            "lat": -108.59375,
+            "lng": 108.453125
+        },
+        "region": "Caelid",
+        "uuid": "fe6eb275-f578-4e97-b445-62754a078c4e"
+    },
+    {
+        "name": "Putrid Avatar",
+        "coords": {
+            "lat": -109.484375,
+            "lng": 108.96875
+        },
+        "region": "Caelid",
+        "uuid": "4d1d1b48-744b-4421-8aa8-888aab31296e"
+    },
+    {
+        "name": "Godskin Apostle",
+        "coords": {
+            "lat": -106.890625,
+            "lng": 100.75
+        },
+        "region": "Caelid",
+        "uuid": "efa66603-59ae-439a-a8e3-b7feaa717941"
+    },
+    {
+        "name": "Bell Bearing Hunter",
+        "coords": {
+            "lat": -107.1640625,
+            "lng": 92.5390625
+        },
+        "region": "Caelid",
+        "uuid": "108cc24d-651c-45d6-b819-627fea5ea59d"
+    },
+    {
+        "name": "Erdtree Burial Watchdog Duo",
+        "coords": {
+            "lat": -109.1875,
+            "lng": 89.375
+        },
+        "region": "Caelid",
+        "uuid": "52ab058c-12dc-45bb-b5d4-f0a754c87af6"
+    },
+    {
+        "name": "Erdtree Avatar",
+        "coords": {
+            "lat": -108.5,
+            "lng": 88.03125
+        },
+        "region": "Caelid",
+        "uuid": "f2dade8a-fb1d-4909-acca-3189cb7a602f"
+    },
+    {
+        "name": "Magma Wyrm",
+        "coords": {
+            "lat": -114.40625,
+            "lng": 86.59375
+        },
+        "region": "Caelid",
+        "uuid": "411d4fcd-0b4e-441f-a9df-984be0681523"
+    },
+    {
+        "name": "Mad Pumpkin Head Duo",
+        "coords": {
+            "lat": -112.515625,
+            "lng": 92.3125
+        },
+        "region": "Caelid",
+        "uuid": "72532c2f-2b03-4305-a182-116143ddb002"
+    },
+    {
+        "name": "Frenzied Duelist",
+        "coords": {
+            "lat": -119.21875,
+            "lng": 88.875
+        },
+        "region": "Caelid",
+        "uuid": "f5cc7705-bf5d-4de4-ad0b-259bef59c9b5"
+    },
+    {
+        "name": "Fallingstar Beast",
+        "coords": {
+            "lat": -112.796875,
+            "lng": 99.6875
+        },
+        "region": "Caelid",
+        "uuid": "91ca7310-22fa-4257-bda6-ae9dd4234255"
+    },
+    {
+        "name": "Nox Swordstress and Nox Priest",
+        "coords": {
+            "lat": -113.59375,
+            "lng": 100.828125
+        },
+        "region": "Caelid",
+        "uuid": "adae6a01-6425-4b26-a877-9603adcda284"
+    },
+    {
+        "name": "Cleanrot Knight Duo",
+        "coords": {
+            "lat": -114.125,
+            "lng": 97.546875
+        },
+        "region": "Caelid",
+        "uuid": "b2b1406a-48b1-4393-874d-bad7a53e36fc"
+    },
+    {
+        "name": "Battlemage Hugues",
+        "coords": {
+            "lat": -114.765625,
+            "lng": 97.4375
+        },
+        "region": "Caelid",
+        "uuid": "a9cb1237-e8de-4f34-898f-b14237e50876"
+    },
+    {
+        "name": "Commander O'Neil",
+        "coords": {
+            "lat": -119.390625,
+            "lng": 98.578125
+        },
+        "region": "Caelid",
+        "uuid": "99711459-2192-4973-89a5-6d31a6080c76"
+    },
+    {
+        "name": "Decaying Ekzykes",
+        "coords": {
+            "lat": -125.1875,
+            "lng": 93.765625
+        },
+        "region": "Caelid",
+        "uuid": "a1660ca5-1c9d-4107-a539-16cfec8f53cc"
+    },
+    {
+        "name": "Cemetery Shade",
+        "coords": {
+            "lat": -127.375,
+            "lng": 96.15625
+        },
+        "region": "Caelid",
+        "uuid": "fcfc748d-1a52-4541-96c5-a6b325ad07b9"
+    },
+    {
+        "name": "Death Rite Bird",
+        "coords": {
+            "lat": -124.078125,
+            "lng": 100.890625
+        },
+        "region": "Caelid",
+        "uuid": "eebc1757-d708-4a12-8396-1c2c92889711"
+    },
+
+    {
+        "name": "Elder Dragon Greyoll",
+        "coords": {
+            "lat": -112.5,
+            "lng": 104.90625
+        },
+        "region": "Caelid",
+        "uuid": "4b18e110-84f4-41d5-a753-7003bd4326ff"
+    },
+    {
+        "name": "Crystalians Trio",
+        "coords": {
+            "lat": -113.90625,
+            "lng": 106.03125
+        },
+        "region": "Caelid",
+        "uuid": "c01201a2-86f7-4dea-868d-c6f168a89c45"
+    },
+    {
+        "name": "Starscourge Radahn",
+        "coords": {
+            "lat": -119.0625,
+            "lng": 114.5
+        },
+        "region": "Caelid",
+        "uuid": "9691847f-ed97-4bb4-91e8-b40ccd33172d"
+    },
+    {
+        "name": "Crucible Knight and Misbegotten Warrior",
+        "coords": {
+            "lat": -128.765625,
+            "lng": 109.796875
+        },
+        "region": "Caelid",
+        "uuid": "1f89052b-fd91-4893-95aa-9f98cc70db00"
+    },
+    {
+        "name": "Millicent",
+        "coords": {
+            "lat": -119.71875,
+            "lng": 97.0625
+        },
+        "region": "Caelid",
+        "uuid": "8aec6192-580c-49a5-91d1-500203539cef"
+    },
+    {
+        "name": "Duelist Knight of the Great Jar",
+        "coords": {
+            "lat": -104.03125,
+            "lng": 89.65625
+        },
+        "region": "Caelid",
+        "uuid": "c971c274-cee5-462a-8758-87ac34e71fd9"
+    }
+]
