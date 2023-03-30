@@ -3,6 +3,7 @@ on:
   push:
     branches: # when new release is out - update these and if conditions below
       - "main"
+      - "release/*"
     paths: # it makes sense to only run this job if node packages config changes, or job's config changes
       - "index.html"
       - ".github/workflows/main.yml"
