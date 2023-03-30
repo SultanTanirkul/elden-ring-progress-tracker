@@ -12,4 +12,6 @@ jobs:
     steps:
       - name: Ref name
         run: echo ${{ github.ref }}
-     
+      - name: Commit Legal Notice
+        run: |
+          git branch
