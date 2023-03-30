@@ -1,0 +1,14 @@
+name: test
+on:
+  push:
+    branches: # when new release is out - update these and if conditions below
+      - "main"
+    paths: # it makes sense to only run this job if node packages config changes, or job's config changes
+      - "index.html"
+jobs:
+  test-job:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Ref name
+        run: echo "branch=$(echo ${GITHUB_REF#refs/heads/})" >>$GITHUB_OUTPUT
+     
