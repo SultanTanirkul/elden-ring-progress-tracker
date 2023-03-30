@@ -10,6 +10,7 @@ jobs:
   test-job:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v4
       - name: Ref name
         run: echo ${{ github.ref }}
       - name: Commit Legal Notice
